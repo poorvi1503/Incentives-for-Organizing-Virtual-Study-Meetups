@@ -8,6 +8,9 @@ This project introduces a smart contract system to incentivize the organization 
 
 ## Contract Address
 0x74E74D2DEA1C0113E53B9aC567fD3608287e8876
+##ss
+![poorvifinal](https://github.com/user-attachments/assets/55c77109-0243-487f-987d-2e5fabf841d4)
+
 
 ## Project Vision
 The vision of this project is to foster collaborative learning environments by rewarding individuals who take the initiative to organize productive virtual study sessions. By providing incentives, this system aims to encourage more frequent and engaging meetups, benefiting both organizers and participants.
